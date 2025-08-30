@@ -23,25 +23,14 @@ The game is currently only playable in French. However, this is not a big issue 
   <img src="https://github.com/user-attachments/assets/91b78003-8534-405a-bd73-1336faa3e067" width="1000" alt="RoadToTemehani-Win64-Shipping_ohRcF0UZBV" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ecd04e32-7aab-4e0f-866b-afa276ed1e0b" width="500" alt="RoadToTemehani-Win64-Shipping_TACMgmg8aq" />
-  <img src="https://github.com/user-attachments/assets/b854b641-bc26-45ed-aed3-582884142001" width="500" alt="RoadToTemehani-Win64-Shipping_qiFWcCaqT0" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f9d5fa52-626d-4f5c-a477-6c0955f15612" width="500" alt="RoadToTemehani-Win64-Shipping_InSxnUgLJj" />
-  <img src="https://github.com/user-attachments/assets/4355ffca-c1c4-4f05-94fa-4077fb4402cc" width="500" alt="UnrealEditor_oFpYIZeQj0" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c351643e-64b3-4469-9177-f1427b7ba799" width="500" alt="UnrealEditor_5u8ofjf2LM" />
-  <img src="https://github.com/user-attachments/assets/2d598db7-424f-4806-8815-e204adc21567" width="500" alt="UnrealEditor_gpt92GiK74" />
-</p>
+| ![Screenshot 1](https://github.com/user-attachments/assets/ecd04e32-7aab-4e0f-866b-afa276ed1e0b) | ![Screenshot 2](https://github.com/user-attachments/assets/b854b641-bc26-45ed-aed3-582884142001) |
+|---|---|
+| ![Screenshot 3](https://github.com/user-attachments/assets/f9d5fa52-626d-4f5c-a477-6c0955f15612) | ![Screenshot 4](https://github.com/user-attachments/assets/4355ffca-c1c4-4f05-94fa-4077fb4402cc) |
+| ![Screenshot 5](https://github.com/user-attachments/assets/c351643e-64b3-4469-9177-f1427b7ba799) | ![Screenshot 6](https://github.com/user-attachments/assets/2d598db7-424f-4806-8815-e204adc21567) |
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/212a2524-8361-4db3-b913-5b26b4ac4d90" width="1000" alt="UnrealEditor_3pabmcjnsy" />
 </p>
-
 
 ---
 
