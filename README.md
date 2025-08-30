@@ -39,8 +39,8 @@ The game is currently only playable in French. However, this is not a big issue 
 # To-do
 - Add a button to show the HUD
 - Add more particles, effects, sounds, and camera shakes to interactions
-- Implement saving (+ level selection)
-- Make entities be able to cast shadows
+- Implement saving (+level selection)
+- Make entities and objects be able to cast shadows
 - Create adventure levels (new enemies + mini-games)
 - Add ultra-wide support
 - Add Discord integration
