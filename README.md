@@ -11,7 +11,7 @@ A public playable version will be released once the essential features are added
 
 **Road to Temehani** is a game I developed by following the paid course **[Formation Créateur de Jeux Vidéo Pro sur Unreal Engine 5](https://www.gamedevteacher.fr)** (French course), which guides students through the process of making this game.
 
-I took creative liberties with the course content, tweaking several elements, and plan to expand the game with around ten levels, mini-games, and new gameplay features.  
+I took creative liberties with the course content, adding and tweaking several elements, and plan to expand the game with around ten levels, mini-games, and new gameplay features.  
 
 The game is currently only playable in French. However, this is not a big issue as only the menus contain text.
 
