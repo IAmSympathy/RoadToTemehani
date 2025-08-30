@@ -16,7 +16,8 @@ I took creative liberties with the course content, adding and tweaking several e
 
 The game is currently only playable in French. However, this is not a big issue as only the menus contain text.
 
-⚠️ Since this project originates from a paid course, I am **not allowed to share the source code**, as doing so could compromise the integrity of the course.
+<strong>⚠️ Since this project originates from a paid course, I am <strong>not allowed to share the source code</strong>, as doing so could compromise the integrity of the course.</strong>
+
 
 ---
 
