@@ -2,7 +2,6 @@
   <img src="https://github.com/user-attachments/assets/ffae82f7-5719-4c49-90e8-4d8ef3c31e49" width="1200" alt="Road to Temehani Logo" />
 </p>
 
-<h1 align="center">Road to Temehani</h1>
 <p align="center"><em>A 2D Unreal Engine sidescroller developed following and expanding upon a paid course</em></p>
 
 <p align="center">
